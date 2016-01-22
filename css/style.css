@@ -1,0 +1,190 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.section1 {
+
+	background: url("/images/payments-banner-graphic.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 600px;
+}
+
+.logo-bonsai {
+
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+}
+
+.name-product {
+
+	margin: 0;
+	position: relative;
+	top: 25px;
+	left: 10px;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-size: 15px;
+
+}
+
+.connexion li{
+
+	list-style-type: none;
+	color: white;
+	display: inline;
+	float: right;
+	margin: 20px;
+	margin-top: -8px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+}
+
+.text-pres {
+	
+	position: relative;
+	margin: 0 auto;
+	width: 900px;
+	top: 100px;
+
+}
+
+.text-pres h2 {
+
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.text-pres p {
+
+	text-align: center;
+	color: white;
+	font-size: 22px;
+	font-family: 'Lora', serif;
+}
+
+.create-account {
+
+	margin: 0 auto;
+	display: block;
+	margin: 0 auto;
+	font-family: 'Open Sans', sans-serif;
+	color: #8080be;
+	font-size: 20px;
+	width: 320px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #fefefe;
+	border: none;
+}
+
+.section2 {
+
+	background-color: #f6f9fb;
+	width: 100%;
+	height: 700px;
+	float: left;
+
+}
+
+.haut-page {
+
+	background-color: #fefefe;
+	width: 100%;
+	height: 350px;
+	border-bottom: solid #DDD 1px;
+
+}
+
+.bas-page {
+
+	margin: 0 auto;
+	width: 500px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.separateur1, .separateur2 {
+
+	width: 300px;
+	height: 200px;
+	border-right: solid #DDD 1px;
+}
+
+.separateur1, .separateur2, .separateur3 {
+
+	float: right;
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+	right: 130px;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.separateur1, .separateur2, .separateur3 h3 {
+
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.separation p {
+
+	text-align: center;
+	color: white;
+}
+
+.separation {
+
+	background-color: #242629;
+	width: 100%;
+	height: 20px;
+
+}
+
+.bas-page p {
+
+	 position: relative;
+    font-size: 16px;
+
+
+    color: #999;
+
+}
+
+.dolar {
+	display: inline-block;
+    font-size: 70px;
+    font-weight: 400;
+    color: #8080BE;
+    float: left;
+    left: 100px;
+}
+
+.bas-page h2 {
+
+	    font-size: 32px;
+    font-weight: 400;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    margin: 0 0 0 20px;
+    color: #565656;
+
+}
+
+.right-text {
+
+	width: 200px;
+	height: 250px;
+	background-color: #fefefe;
+	float: right;
+}
+
+
+
